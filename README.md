@@ -4,10 +4,6 @@ Este repositorio contiene los scripts de automatización de pruebas funcionales 
 
 ## 📄 Documentación del Proyecto
 
-Puedes consultar el informe completo con la estrategia de pruebas, métricas de calidad y análisis de seguridad aquí:
-
-👉 **[Ver Informe Final (PDF)](Informe_Final.pdf)**
-
 ---
 
 ## 📋 Descripción del Escenario Automatizado
